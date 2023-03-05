@@ -1,0 +1,31 @@
+    <h1 class="font">Moiz hassan</h1>
+    <h1 class="font-2">Moiz hassan</h1>
+    <h1 class="normal">Moiz Hassan</h1><br>
+    <div class="center">
+        <h1>Moiz Hassan</h1>
+    </div>
+    <!--inline css has No 1 preference internal css has N0 2 and external css has No 3 preference but if we use !important in any of them then style with !important has the highest preference-->
+/* @import url('https://fonts.googleapis.com/css2?family=Golos+Text:wght@900&display=swap'); */
+/* .font{
+    font-family: 'Golos Text', sans-serif;
+
+} */
+.font{
+    font-family: 'Golos Text', sans-serif;
+}
+.font-2{
+    font-family: 'Tilt Prism', cursive;
+}
+.normal{
+    font-weight: bolder;
+}
+.center{
+    background-color: red;
+    height: 100px;
+    width: 100px;
+    margin: 0px auto;
+}
+div>h1{
+    text-align: center;
+    font-size: 10px !important;
+}

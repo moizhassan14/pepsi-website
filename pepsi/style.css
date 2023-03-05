@@ -1,0 +1,307 @@
+.navigationbar{
+    background-color: #0065c3;
+    font-size: large;
+    font-weight: bolder;
+}
+.nav-items{
+    color: white !important;
+}
+.button{
+    background-color:#0065c3 !important;
+    color: white !important;
+    width: 200px;
+    text-align: center;
+    border-radius: 1.8em;
+    border: 2px solid white;
+    margin-left: 310px;
+    font-size: 1em;
+    line-height: normal;
+}
+.button:hover{
+    background-color: white !important;
+}
+.btn:hover{
+    color: black !important ;
+}
+.first-page{
+    background-color: black;
+}
+.site-2{
+    color: white;
+    text-align: center;
+}
+.z>p{
+    font-size:180px;
+    font-weight: 900;
+    margin-top: 50px;
+    line-height: 100px;
+}
+.n>p{
+    font-size:65px;
+    font-weight: 900;
+    line-height: 100px;
+}
+.s>p{
+    font-size:110px;
+    font-weight: 900;
+    line-height: 6px;
+}
+.t>p{
+    font-size:45px;
+    font-weight: 900;
+    line-height: 80px;
+}
+.second-page{
+    background-image: url('/Desktop_Backgroundnitro.png');
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+}
+.nitro{
+    margin-top: 100px;
+    margin-bottom: 50px;
+}
+.image-1{
+    display: flex;
+    justify-content: center;
+}
+.image-1>img{
+    width: px;
+    height: 600px;
+}
+.image-2{
+    /* background-color: black !important; */
+    /* display: flex;
+    justify-content:flex-start;
+    align-items: center; */
+}
+.image-2>img{
+    margin-top: 60px;
+    width: 286px;
+    height: 250px;
+}
+.image-2>.smooth{
+    font-size: 40px;
+    font-weight: 900;
+    color: white !important;
+}
+.button-2{
+    color: #fff !important;
+    display: inline-block;
+    height: 2.3em;
+    border: 2px solid #fff;
+    border-radius: 1.8em;
+    text-transform: uppercase;
+    white-space: nowrap;
+    overflow: hidden;
+    width: 210px;
+    text-align: center;
+}
+.button-2>.btn{
+    color: white !important;
+}
+
+.button-2:hover{
+    background-color: white !important;
+    border: 2px solid white;
+    color: black !important;
+}
+.button-2>.btn:hover{
+    color: black !important;
+}
+.third-page{
+    background-color:black !important;
+}
+.forth-page{
+    background-image: url('Desktop_Backgroundnitro.png');
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: 100%;
+}
+.last{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+.last-img{
+    margin-top: 1000px;
+}
+.footer{
+    background-color: #0065c3 !important;
+}
+.foot{
+    display: flex;
+    width: 100%;
+}
+.flogo{
+    margin-left: 50px;
+    margin-top: 90px;
+    margin-bottom: 20px;
+}
+.social-icons>i {
+    font-size: 30px;
+    margin-top: 5px;
+    color: #fff;
+    /* margin-right: 10px; */
+    margin-bottom: 20px;
+    margin-left: 15px;;
+}
+.button-3{
+    color: #fff ;
+    display: inline-block;
+    height: 2.3em;
+    border: 2px solid #fff;
+    border-radius: 1.8em;
+    background: transparent;
+    text-transform: uppercase;
+    cursor: pointer;
+    white-space: nowrap;
+    overflow: hidden;
+    width: 240px;
+    text-align: center;
+    margin-top: 90px;
+}
+.button-3:hover{
+    background-color: white !important;
+    border: 2px solid white;
+    color: black !important;
+}
+.button-3>.btn:hover{
+    color: black !important;}
+ul>li{
+    color: white !important;
+    list-style-type: none;
+    font-size: 15px;
+    font-weight: bolder;
+}
+.f1,.f2,.f3{
+    margin-top: 100px;
+    margin-bottom: 80px;
+    margin-left: 30px;
+    margin-right: 100px;
+}
+.page-3{
+    background-color: #0065c3 !important;
+}
+.card-1{
+    background-color: #034b8f !important;
+    margin-top: 80px;
+    color: white;
+    text-align: center;
+    font-weight: 900;
+
+}
+.card-2{
+    background-color: #034b8f !important;
+    margin-top:50px;
+    margin-bottom: 80px;
+    color: white;
+    text-align: center;
+    font-weight: 900;
+}
+.pagefour{
+    background-color: #0065c3 !important;
+}
+.orange{
+    background-color: #0065c3 !important;
+    padding-left: 0px !important;
+    padding-right: 0px !important;
+}
+.video{
+    padding-left: 0px !important;
+    padding-right: 0px !important;
+    padding-bottom: 0px !important;
+}
+
+.img-2{
+    padding-left: 0px !important;
+    padding-right: 0px !important;
+
+}
+.fifth-page{
+    background-image: url('04_Generation_BG_D_2.png') !important;
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: 100%;
+}
+.fifth-1{
+    /* text-align: center; */
+    /* margin-left: 150px; */
+    margin-right: 0px !important;
+    padding-right: 0px !important;
+}
+.fi1{
+    font-size:45px;
+    font-weight: 900;
+    margin-top: 100px;
+    line-height: 20px;
+    margin-bottom: 2px;
+    color: white;
+}
+.fi2{
+    font-size:45px;
+    font-weight: 900;
+    line-height: 100px;
+    color: white;
+}
+.fi3{
+    font-size:45px;
+    font-weight: 900;
+    line-height: 20px;
+    color: white;
+}
+.fi4{
+    margin-top: 30px;
+    color: white;
+}
+.button-5{
+    margin-bottom: 100px;
+}
+.mgi{
+    margin-top: 120px;
+}
+.button-5{
+    margin-top: 30px;
+    margin-bottom: 100px;
+    padding-bottom: 20px;
+    color: #fff ;
+    display: inline-block;
+    height: 2.3em;
+    border: 2px solid #fff;
+    border-radius: 1.8em;
+    background: transparent;
+    text-transform: uppercase;
+    cursor: pointer;
+    white-space: nowrap;
+    overflow: hidden;
+    width: 190px;
+    text-align: center;
+}
+.button-5>.btn{
+    color: black !important;
+}
+
+.button-5:hover{
+    background-color: white !important;
+    border: 2px solid white;
+    color: black !important;
+}
+.button-5>.btn:hover{
+    color: black !important;
+}
+.para{
+    font-size: 55px;
+    font-weight: 900;
+    color: #0065c3;
+    text-align: center;
+}
+.lastimages{
+    margin-left: 50px;
+    display: flex;
+}
+.l1{
+    margin-left: 0px !important;
+}
